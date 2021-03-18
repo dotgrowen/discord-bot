@@ -1,12 +1,3 @@
-### Firebase ###
-.idea
-**/node_modules/*
-**/.firebaserc
-
-### Firebase Patch ###
-.runtimeconfig.json
-.firebase/
-
 ### Node ###
 # Logs
 logs
@@ -133,4 +124,3 @@ dist/
 tmp/
 temp/
 
-config.json
