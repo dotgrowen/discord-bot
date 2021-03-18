@@ -1,0 +1,74 @@
+General Commands
+--about - bot info
+--avatar [user] - show user's avatar
+--credits - bot credits
+--donate - donate to support the bot
+--invite - add ygg to your server
+--ping - checks the bot's latency
+--serverinfo - shows server info
+--userinfo [user] - shows user info
+
+Fun Commands
+--choose <item> <item> ... - make a decision
+--8ball <question> - ask the magic 8ball!
+--fiction <name> - infinite fictional database
+--friendscore @user1 @user2 - friend compatibility score
+--fortune - shows your fortune
+--icecream [user] - makes your personal icecream cone
+--joke - random joke
+--meme - random meme
+--pokefusion - shows a random pokefusion
+--quote <messageId> OR <@user> <quote> - grabs or creates a quote
+--rip <user> - makes a tombstone
+--roll <dice> - rolls dice
+--ship <first> [second] - matchmaking!
+--spoilers <text> - hides spoiler text
+--toast <user> - makes some toast
+--useless - link to a useless web site
+--wanted <user> - makes a wanted poster
+
+Games Commands
+--darts [guess] - play darts
+--deathbattle @user1 @user2 - Death Battle!
+--garage [car] - Look at what cars you have in your garage.
+--race - race car!
+--fidgetspinner [type] - spins a fidget spinner
+--standoff - Have an good ol' fasioned standoff.
+
+Phones Commands
+--speakerphone - chat with random users all over Discord!
+--eyephone - :eyes:
+--flipphone - flips your conversation!
+--fuwwyphone - corrupts your conversation to owospeak.
+--scramblephone - chat with random users, but scrambled!
+--userphone - chat with users and see who you're chatting with!
+--hangup - Hangup the phone
+
+Animals Commands
+--bird - random bird
+--cat - random cat
+--dog - random dog
+--fox - random fox
+--panda - random panda
+--snake - random snake
+
+Soundboard Commands
+--tts <text> - text to speech
+--airhorn
+--brainpower
+--cena
+--cheer
+--cricket
+--dancemoves
+--doof
+--fakeerror
+--fakeping
+--granddad
+--heyall
+--heyguys
+--jenkins
+--knocking
+--oof
+--trombone
+--vsauce
+--wasted
