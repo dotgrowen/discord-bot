@@ -12,6 +12,7 @@
     "event-target-shim": "^5.0.1",
     "mime-db": "^1.46.0",
     "mime-types": "^2.1.29",
+    "mongoose": "^5.12.1",
     "node-fetch": "^2.6.1",
     "prism-media": "^1.2.8",
     "setimmediate": "^1.0.5",
